@@ -1,2 +1,2 @@
 # lab5
-HPC-Bio
+This repository is for laboratoty 5, from the subject High Performance Computing.
